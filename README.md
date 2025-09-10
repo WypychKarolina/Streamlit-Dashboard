@@ -23,6 +23,6 @@ The project consists of two parts:
 ```bash
 python server.py
 ```
-###Start the client (dashboard)
+### Start the client (dashboard)
 ```bash
 streamlit run client.py
